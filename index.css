@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+body{
+    text-align: center;
+    background-color: antiquewhite;
+
+}
+.title,
+.value{
+    font-size: 4rem;
+    padding:15px 0px
+}
+.btn{
+    border:2px solid black;
+    padding:15px;
+    font-size: 1.5rem;
+    border-radius: 5px;
+    margin:15px 10px;
+    
+
+}
+.btn:hover{
+    background-color: black;
+    color:white
+}
